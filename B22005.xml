@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble answer of the Lords and Commons assembled in Parliament to the message of the 25 of August received from His Maiesty by the Earles of South-hampton and Dorset, and Sir Iohn Culpepper, Knight, Chancellor of the Exchequer returned by the aforesaid Sir Iohn Culpepper by order of both Houses to be presented to His Majesty ... : also a declaration of the Lords and Commons concerning the behaviour of the souldiers in this present expedition : with an order of both houses concerning irregular printing, and for suppressing of all false and scandalous pamphlets.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22005</idno><idno type="EEBO-CITATION">10268572</idno>
+  <idno type="VID">204626</idno>
+  <idno type="EEBO-PROQUEST">2248496686</idno>
+  
+            <idno type="STC">Wing E1553</idno>
+            <idno type="OCLC">10268572</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204626)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1382:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble answer of the Lords and Commons assembled in Parliament to the message of the 25 of August received from His Maiesty by the Earles of South-hampton and Dorset, and Sir Iohn Culpepper, Knight, Chancellor of the Exchequer returned by the aforesaid Sir Iohn Culpepper by order of both Houses to be presented to His Majesty ... : also a declaration of the Lords and Commons concerning the behaviour of the souldiers in this present expedition : with an order of both houses concerning irregular printing, and for suppressing of all false and scandalous pamphlets.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Die Sabbathi, August 27. 1642. Ordered by the Lords and Commons that this declaration and order be forthwith printed and published. Iohn Brown Cler. Parliament."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204626:1"/>
+            <pb facs="tcp:204626:1"/>
+            <p> The humble Answer OF THE LORDS and COMMONS Assembled in <hi>Parliament,</hi> To the Message of the 25 of August, received from his MAIESTY, by the Earles of <hi>South-Hampton</hi> and <hi>Dorset,</hi> and Sir <hi>Iohn Cul<g ref="char:EOLhyphen"/>pepper, Knight,</hi> Chancellor of the Exchequer.</p>
+            <p>Returned by the aforesaid <hi>Sir Iohn Culpepper,</hi> by Order of both Houses, to be presented to his MAJESTY.</p>
+            <p>With a perfect Copy of his Majesties Message.</p>
+            <p>Also a Declaration of the Lords and Commons, concerning the beheaviour of the Souldiers in this present expedition.</p>
+            <p>VVith an Order of both Houses concerning Irregular Printing, and for the suppressing of all false and Scandalous Pamphlets.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <opener>
+                           <dateline>
+                              <date>Die Sabbathi, August. 27. 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>Ordered by the Lords and Commons, that this Declaration and Order be forthwith Printed and Published.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Iohn Browne Cler. Parliament.</p>
+            <p>
+               <hi>August</hi> 30. London Printed for <hi>Iohn Wright.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:204626:2"/>
+            <opener>
+               <salute>May it please Your Majesty,</salute>
+            </opener>
+            <p>THe Lords and Commons in Parliament assom<g ref="char:EOLhyphen"/>bled, having received your Majesties Message of the 25 of <hi>August,</hi> doe with much griefe recent the dangerous and distracted state of this Kingdome, which we have by all meanes endeavoured to prevent both by our severall advices and Petitions to Your Ma<g ref="char:EOLhyphen"/>jesty, which have beene not onely without successe, but there hath followed that, which no ill councell in for<g ref="char:EOLhyphen"/>mer times hath produced; or any age hath seene, namely those severall Proclamations and Declarations against both the Houses of Parliament, whereby their actions are declared Treasonable, and their persons Traytors; and thereupon Your Majesty hath set up Your Standard against them, whereby You have put the two Houses of Parliament, and in them this whole Kingdome out of Your protection; so that untill Your Majesty shall re<g ref="char:EOLhyphen"/>call the said Proclamations and Declarations, whereby the Earle of <hi>Essex</hi> and both Houses of Parliament, and their adherents and assistants, and such as have obeyed and executed their commands and directions according to their duties, are declared Traytors, or otherwise de<g ref="char:EOLhyphen"/>linquents; and untill the Standard set up in pursuance of the said Proclamations be taken downe, Your Maje<g ref="char:EOLhyphen"/>sty hath put us into such a condition, that whilst we so remaine we cannot by the fundamentall priviledge of Parliament, the publike trust reposed in us, or with the generall good and safety of this Kingdome, give Your Majesty any other answer to this Message.</p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:204626:2"/>
+            <head>His Majesties gracious Message to both Houses of Parliament, sent from <hi>Not<g ref="char:EOLhyphen"/>tingham,</hi> 25. August, 1642.</head>
+            <p>WE have with unspeakable griefe of heart long beheld the Distractions of this our Kingdom; Our very soule is ful of anguish untill We may find some remedy to prevent the Miseries which are ready to overwhelme this whole Nation by a civill War: And though all Our endeavours tending to the composing of those unhappy differences betwixt Us and Our two Houses of Parliament (though pursued by Us with all Zeale and Sincerity) have beene hitherto without that Successe We hoped for; Yet such is Our constant and ear<g ref="char:EOLhyphen"/>nest care to preserve the publike peace, that We shall not be discouraged from using any expedient, which by the blessing of the God of Mercy may lay a firme foundation of peace and happinesse to all Our good Subjects: To this end observing that many Mistakes have arisen by the Messages, Petitions and Answers betwixt Us and Our two Houses of Parliament, which happily may be pre<g ref="char:EOLhyphen"/>vented by some other way of Treaty, wherein the Matters in difference may be more cleerly understood, and more freely transacted; Wee have thought fit to propound to you, that some fit persons may be by you inabled to treat with the like number to be authorized by Us, in such a manner, and with such freedome of debate, as may best tend to that happy Conclusion which all good Men desire, <hi>The peace of the Kingdome:</hi> Wherein as We promise in the Word of a King, all safety and encour<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ment
+<pb facs="tcp:204626:3"/> to such as shall bee sent to Us, if you shall chuse the place where we are for the Treatie; which we wholy leave to you, presuming of your like care of the safety of those We shall imploy, if you shall name ano<g ref="char:EOLhyphen"/>ther place▪ So We assure you and all Our good Subiects, that (to the best of Our understanding) nothing shall be therein wanting on Our parts, which may advance the true Protestant Religion, Oppose Popery and Supersti<g ref="char:EOLhyphen"/>tion, Secure the Law of the Land (upon which is built as well Our iust Prerogative, as the Propriety and Liber<g ref="char:EOLhyphen"/>ty of the Subiect) Confirm all iust power and Priviled<g ref="char:EOLhyphen"/>ges of Parliament, And render Vs and Our People truly happy by a good Vnderstanding betwixt Vs and Our two Houses of Parliament. Bring with you as firm Resoluti<g ref="char:EOLhyphen"/>ons to doe your duty, and let all Our good People ioyne with Vs in Our Prayers to Almighty God for his bles<g ref="char:EOLhyphen"/>sing upon this work.</p>
+            <p>If this Proposition shall be reiected by you, We have done Our duty so amply, that God will absolve Vs from the Guilt of any of that blood which must be spilt, and what opinion soever other Men may have of Our pow<g ref="char:EOLhyphen"/>er, We assure you nothing but Our Christian and Pious care to prevent the Effusion of blood hath begot this Motion, Our Provision of Men, Armes and Money be<g ref="char:EOLhyphen"/>ing such as may secure Vs from further violence, till it shall please God to open the eyes of Our People.</p>
+         </div>
+         <div type="declaration">
+            <pb facs="tcp:204626:3"/>
+            <head>A Declaration of the Lords and Commons Assembled in PARLIAMENT.</head>
+            <p>WHereas diverse Souldiers have in a tumultuous and violent manner broken into diverse of the Kings Subjects houses, pillaged and ransacked them, un<g ref="char:EOLhyphen"/>der colour that they are Papists Houses, or the houses of persons disaffected; The Lords and Commons taking the premises into consideration, doe declare and Order, that whatsoever Souldier or Souldiers, shall without the command of the Cap<g ref="char:EOLhyphen"/>taines of their respective Companies, or the Officers of the field, attempt upon, or breake open any houses whatsoever, or pillage or ransacke any house, shall be pur<g ref="char:EOLhyphen"/>sued and punisht, according to the Law as a Felon, And the said Lords and Com<g ref="char:EOLhyphen"/>mons
+<pb facs="tcp:204626:4"/> doe require all Officers of the Army to imploy their best endeavours, for the bringing of any such Souldiers that shall commit any of the insolencies aforesaid, to condigne punishment, that they may be severely and effectually proceeded a<g ref="char:EOLhyphen"/>gainst, according to Law. And the Lord Generall is desired, that this Order may be duely published in the Army, in the head of each particular Company.</p>
+            <div type="license" subtype="order_to_print">
+               <opener>
+                  <dateline>
+                     <date>August 30, 1642.</date>
+                  </dateline>
+               </opener>
+               <p>ORdered by the Lords assembled in Par<g ref="char:EOLhyphen"/>liament, that this Order be forth<g ref="char:EOLhyphen"/>with Printed and Published.</p>
+               <closer>
+                  <signed>John Browne Cleric. Parliamentorum.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="order">
+            <pb facs="tcp:204626:4"/>
+            <head>An ORDER of the Lords and Com<g ref="char:EOLhyphen"/>mons, concerning Printing.</head>
+            <opener>
+               <dateline>
+                  <date>Die Veneris 26. Augusti, 1642.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas there hath beene of late great dis<g ref="char:EOLhyphen"/>orders and abuses by irregular Printing, to the great scandall of Religion and go<g ref="char:EOLhyphen"/>vernment, and a Bill is in preparation for the redresse of those mischiefes, which by reason of the present distractions cannot be so speedily perfected and passed as is desired; It is therefore Orde<g ref="char:EOLhyphen"/>red by the Lords and Commons in Parliament; that no person or persons shall Print, publish, or utter, any Booke or Pamphlet, false or scandalous, to the procee<g ref="char:EOLhyphen"/>dings of the Houses of Parliament, or either of them, nor shall Print, utter, or publish, any Books or Pamphlet with the name of the Clerke of either House o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Parli<g ref="char:EOLhyphen"/>ament set thereunto, or with any expression, pretence, of Order from born or either of the said Houses, with<g ref="char:EOLhyphen"/>out speciall Order from the said Houses, or either of them▪ or of the Committees of them, or either of them concerning Printing; And the same to be entred
+<pb facs="tcp:204626:5"/> in the Register Booke of the said Company, according to ancient custome; And the Master and Wardens of the Company of Stationers <hi>London,</hi> and the Usher of the Black-rod, and Serjeant of the Commons House of Parliament and their Deputies, are hereby authorized and required, to make diligent search from time to time, for all such Bookes and Pamphlets, to bee hereafter printed, and the same to sieze and take, together with the Presses, and other Printing Materials, wherewith the same shall be Printed; and carry them to the Common-hall of the said Company, there to remaine till either House of Parliament shall otherwise dispose thereof; And all his Majesties Officers shall upon request, ayde and assist to apprehend offenders in the premises, and to bring them before the Lords or Commons House of Parliament, or the Committees appoynted for Printing, upon whose report of the Fact, such course shall be ta<g ref="char:EOLhyphen"/>ken with the said Offenders, as shall be just. And for that purpose the said Committees are to sit at such times and places as they shall thinke fit.</p>
+            <div type="license" subtype="order_to_print">
+               <p>ORdered by the Lords and Commons assembled in Parliament, that this Order concerning Printing be forthwith Printed and published.</p>
+               <closer>
+                  <signed>John Browne Cleric. Parliam.</signed>
+               </closer>
+               <pb facs="tcp:204626:5"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
